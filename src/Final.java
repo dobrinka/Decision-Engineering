@@ -160,7 +160,7 @@ public class Final {
 				}
 			}
 			}
-        // affiche le resultat
+        	// affiche le resultat
 		public static void promethee ()
 		{
 			for (int i=0; i<n; i++){
